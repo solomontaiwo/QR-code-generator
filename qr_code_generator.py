@@ -10,3 +10,6 @@ qr_code = pyqrcode.create(link)
 
 # Create png file with appropriate filename and scale
 qr_code.png("QRCode_" + link + ".png", scale = 5)
+
+# Open created file in an image viewer
+qr_code.show()
