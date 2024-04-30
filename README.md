@@ -1,5 +1,5 @@
 # QR Code Generator
-A symple python project that creates a qr code with the user's input.
+A simple python project that creates a qr code with the user's input.
 
 
 Modules needed: 
